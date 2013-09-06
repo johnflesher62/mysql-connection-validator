@@ -1,6 +1,5 @@
-*.class
+#Build output
+/target
 
-# Package Files #
-*.jar
-*.war
-*.ear
+#Personal workspace
+/.idea/workspace.xml
